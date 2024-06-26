@@ -1,3 +1,9 @@
+# Data Science Summit 2024 - Kedro Workshop
+
+By : Pierre Adeikalam (AXA Direct France / Direct Assurance)
+
+Supported by : Juan Pablo Usuga, Benjamin Wallyn
+
 ## What is Kedro?
 
 > Kedro is an open source library that provides a structured and easy-to-follow framework for developing ML and Data Engineering pipelines. It was built to help Data Scientists, Analysts start writing production ready code for reproducible, maintainable and modular data pipelines.

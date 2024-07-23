@@ -15,13 +15,18 @@ Supported by : Juan Pablo Usuga, Benjamin Wallyn
 
 ### Install required dependencies
 
-> Create a virtual environment. For example using `conda`:
+> Create a virtual environment. For example using `pyenv` and `venv`:
 >    
-> > `conda create --name kedro-environment python=3.10 -y` \
+> > `pyenv install 3.10`
+>
+>
+> > `pyenv local 3.10` 
+>
+> > `python -m venv envs\kedro_env`
 >
 > Activate the environment using the following command:
 >
-> > `conda activate kedro-environment`
+> > `envs\kedro_env\Scripts\activate`
 >
 > Install the project requirements:
 > > `pip install -r requirements.txt`

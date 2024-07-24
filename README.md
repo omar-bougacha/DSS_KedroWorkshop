@@ -95,8 +95,8 @@ Supported by : Juan Pablo Usuga, Benjamin Wallyn
 >         [
 >             node(
 >                 my_first_node,
->                 inputs=["train_df"],
->                 outputs=["train_df_head"],
+>                 inputs="train_df",
+>                 outputs="train_df_head",
 >                 name="sample_train_df",
 >             )
 >         ]
